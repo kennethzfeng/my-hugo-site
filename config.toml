@@ -22,8 +22,4 @@ theme = "hugo-uno"
     email = "me@kfeng.me"
     twitter = "kennethzfeng"
     copyright = "Copyright (c) 2014 - 2015, Kenneth Feng; all rights reserved."
-
-
-[[menu.main]]
-    name = "About Me"
-    url = "/about_me/"
+    cv = "/pages/about"
