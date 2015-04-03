@@ -1,6 +1,8 @@
 +++
-date = "2014-08-12T22:13:48-04:00"
-title = "Dynamically Create Javascript Classes"
+date            = "2014-08-12T22:13:48-04:00"
+title           = "Dynamically Create Javascript Classes"
+tags            = [ "javascript" ]
+categories      = [ "DEV" ] 
 
 +++
 #### Problem

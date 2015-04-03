@@ -2,4 +2,28 @@ baseurl = "http://blog.kfeng.me/"
 languageCode = "en-us"
 title = "Log@tomic"
 
+author = "Kenneth Feng"
+
 theme = "hugo-uno"
+
+[permalinks]
+    post = "/:year/:month/:title/"
+
+[taxonomics]
+    category = "categories"
+    tag = "tags"
+
+[Params]
+    AuthorName = "Kenneth Feng"
+
+    description = "My thoughts on software developments, cooking, and many other things in life"
+    github = "kennethzfeng"
+    linkedin = "kennethzfeng"
+    email = "me@kfeng.me"
+    twitter = "kennethzfeng"
+    copyright = "Copyright (c) 2014 - 2015, Kenneth Feng; all rights reserved."
+
+
+[[menu.main]]
+    name = "About Me"
+    url = "/about_me/"
