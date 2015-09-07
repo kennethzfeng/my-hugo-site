@@ -15,11 +15,21 @@ theme = "herring-cove"
 
 [Params]
     AuthorName = "Kenneth Feng"
+    ProfilePicture = "/pics/me.png"
+    enableLandingPage = true
+    landingPageRedirectUrl = "/post/"
 
     description = "My thoughts on software developments, cooking, and many other things in life"
-    github = "kennethzfeng"
-    linkedin = "kennethzfeng"
+
+    github = "http://github.com/kennethzfeng"
+    linkedin = "http://linkedin.com/in/kennethzfeng"
     email = "me@kfeng.me"
-    twitter = "kennethzfeng"
+    twitter = "http://twitter.com/kennethzfeng"
     copyright = "Copyright (c) 2014 - 2015, Kenneth Feng; all rights reserved."
     cv = "/pages/about"
+
+
+[Params.links]
+    Home = "/"
+    Blog = "/post/"
+    CV = "/pages/about/"
