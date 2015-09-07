@@ -30,6 +30,6 @@ theme = "herring-cove"
 
 
 [Params.links]
-    Home = "/"
-    Blog = "/post/"
-    CV = "/pages/about/"
+    Home = ""
+    Blog = "post/"
+    CV = "pages/about/"
