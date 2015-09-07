@@ -4,7 +4,7 @@ title = "Kenneth Feng"
 
 author = "Kenneth Feng"
 
-theme = "hugo-uno"
+theme = "herring-cove"
 
 [permalinks]
     post = "/:year/:month/:title/"

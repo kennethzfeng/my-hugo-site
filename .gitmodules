@@ -4,3 +4,9 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:kennethzfeng/kennethzfeng.github.io.git
+[submodule "themes/herring-cove"]
+	path = themes/herring-cove
+	url = https://github.com/spf13/herring-cove
+[submodule "themes/hyde"]
+	path = themes/hyde
+	url = https://github.com/spf13/hyde
