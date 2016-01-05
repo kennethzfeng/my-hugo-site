@@ -21,10 +21,10 @@ theme = "herring-cove"
 
     description = "My thoughts on software developments, cooking, and many other things in life"
 
-    github = "http://github.com/kennethzfeng"
-    linkedin = "http://linkedin.com/in/kennethzfeng"
+    github = "https://github.com/kennethzfeng"
+    linkedin = "https://linkedin.com/in/kennethzfeng"
     email = "me@kfeng.me"
-    twitter = "http://twitter.com/kennethzfeng"
+    twitter = "https://twitter.com/kennethzfeng"
     copyright = "Copyright (c) 2014 - 2015, Kenneth Feng; all rights reserved."
     cv = "/pages/about"
 
